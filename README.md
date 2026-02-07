@@ -112,39 +112,3 @@ For i18n localization developer, please follow [Getting Started with Localizatio
 </div>
 <!-- afdian-end -->
 
-## Credits & Acknowledgments
-
-### 🌍 Community & Localization
-
-**[BANSAFAn](https://github.com/BANSAFAn)**
-Community support and moderation for RU/UK regions · Ukrainian translation
-
-**[Marmur2020](https://github.com/Marmur2020)**
-Complete Ukrainian language translation
-
-**[vanja-san](https://github.com/vanja-san)**
-Russian language support
-
-## 📦 Package Maintainers
-
-**[VolodiaKraplich](https://github.com/VolodiaKraplich)**
-AUR (Arch User Repository) package maintenance
-
-**[0xc0000142](https://github.com/0xc0000142)**
-winget package maintenance
-
-### 🛠️ Development Contributors
-
-**[lukechu10](https://github.com/lukechu10) & [HoldYourWaffle](https://github.com/HoldYourWaffle)**
-Launcher core development
-
-**[laolarou726](https://github.com/laolarou726)**
-Launcher design and UI/UX
-
-### 💙 Special Thanks
-
-A heartfelt thank you to these individuals for their support and contributions:
-
-[Yricky](https://github.com/Yricky) · [Jin](https://github.com/Indexyz) · [LG](https://github.com/LasmGratel) · [Phoebe](https://github.com/PhoebezZ) · [Sumeng Wang](https://github.com/darkkingwsm) · [Luca](https://github.com/LucaIsGenius) · [Charles Tang](https://github.com/CharlesQT)
-
----
